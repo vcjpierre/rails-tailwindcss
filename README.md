@@ -1,4 +1,4 @@
-# Rails demo
+# Rails + TailwindCSS
 
 ## Project Initialization
 
