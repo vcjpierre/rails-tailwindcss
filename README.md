@@ -58,13 +58,6 @@ This command generates a complete set of model, database migration for that mode
 rails generate scaffold post title:string content:text
 ```
 
-### Generate a HighScore Scaffold:
-
-Similarly, to create a scaffold for a HighScore model with attributes `game` (a string) and `score` (an integer):
-```bash
-rails generate scaffold HighScore game:string score:integer
-```
-
 After generating new scaffolds, remember to run:
 ```bash
 rails db:migrate
